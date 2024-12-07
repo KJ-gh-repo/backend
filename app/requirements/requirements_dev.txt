@@ -158,7 +158,7 @@ distlib==0.3.7
     # via
     #   -r requirements/requirements_test.txt
     #   virtualenv
-django==3.2.20
+django==4.2.17
     # via
     #   -r requirements/requirements_test.txt
     #   datapunt-authorization-django
