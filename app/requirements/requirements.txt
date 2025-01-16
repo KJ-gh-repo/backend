@@ -301,7 +301,7 @@ pycparser==2.21
     # via cffi
 pyjwt[crypto]==2.8.0
     # via msal
-pyopenssl==23.2.0
+pyopenssl==24.0.0
     # via josepy
 pypdf==3.15.1
     # via -r requirements/requirements.in
