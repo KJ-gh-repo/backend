@@ -495,7 +495,7 @@ pyjwt[crypto]==2.8.0
     # via
     #   -r requirements/requirements_test.txt
     #   msal
-pyopenssl==23.2.0
+pyopenssl==24.0.0
     # via
     #   -r requirements/requirements_test.txt
     #   josepy
