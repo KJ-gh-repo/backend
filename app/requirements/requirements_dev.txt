@@ -158,7 +158,7 @@ distlib==0.3.7
     # via
     #   -r requirements/requirements_test.txt
     #   virtualenv
-django==3.2.20
+django==4.2.20
     # via
     #   -r requirements/requirements_test.txt
     #   datapunt-authorization-django
@@ -317,7 +317,7 @@ itypes==1.2.0
     # via
     #   -r requirements/requirements_test.txt
     #   coreapi
-jinja2==3.1.2
+jinja2==3.1.6
     # via
     #   -r requirements/requirements_test.txt
     #   coreschema
