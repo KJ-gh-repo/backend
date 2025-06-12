@@ -107,7 +107,7 @@ defusedxml==0.7.1
     #   djangorestframework-xml
 deprecated==1.2.14
     # via jwcrypto
-django==3.2.20
+django==4.2.22
     # via
     #   -r requirements/requirements.in
     #   datapunt-authorization-django
@@ -335,7 +335,7 @@ referencing==0.30.2
     # via
     #   jsonschema
     #   jsonschema-specifications
-requests==2.31.0
+requests==2.32.4
     # via
     #   -r requirements/requirements.in
     #   azure-core
