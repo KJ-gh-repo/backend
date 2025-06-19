@@ -279,7 +279,7 @@ prometheus-client==0.17.1
     # via flower
 prompt-toolkit==3.0.39
     # via click-repl
-protobuf==4.24.0
+protobuf==4.25.8
     # via
     #   google-api-core
     #   googleapis-common-protos
