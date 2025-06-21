@@ -456,7 +456,7 @@ prompt-toolkit==3.0.39
     # via
     #   -r requirements/requirements_test.txt
     #   click-repl
-protobuf==4.24.0
+protobuf==4.25.8
     # via
     #   -r requirements/requirements_test.txt
     #   google-api-core
@@ -677,7 +677,7 @@ uritemplate==4.1.1
     #   -r requirements/requirements_test.txt
     #   coreapi
     #   drf-spectacular
-urllib3==1.26.16
+urllib3==2.5.0
     # via
     #   -r requirements/requirements_test.txt
     #   elasticsearch
