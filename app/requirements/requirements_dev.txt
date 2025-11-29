@@ -499,7 +499,7 @@ pyopenssl==23.2.0
     # via
     #   -r requirements/requirements_test.txt
     #   josepy
-pypdf==3.15.1
+pypdf==6.4.0
     # via -r requirements/requirements_test.txt
 pyphen==0.14.0
     # via
