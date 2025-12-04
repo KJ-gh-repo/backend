@@ -107,7 +107,7 @@ defusedxml==0.7.1
     #   djangorestframework-xml
 deprecated==1.2.14
     # via jwcrypto
-django==3.2.20
+django==4.2.27
     # via
     #   -r requirements/requirements.in
     #   datapunt-authorization-django
@@ -373,7 +373,7 @@ six==1.16.0
     #   python-dateutil
 soupsieve==2.4.1
     # via beautifulsoup4
-sqlparse==0.4.4
+sqlparse==0.5.4
     # via
     #   django
     #   django-silk
