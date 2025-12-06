@@ -150,7 +150,7 @@ deprecated==1.2.14
     #   jwcrypto
 distlib==0.3.7
     # via virtualenv
-django==3.2.20
+django==4.2.27
     # via
     #   -r requirements/requirements.txt
     #   datapunt-authorization-django
@@ -590,7 +590,7 @@ soupsieve==2.4.1
     # via
     #   -r requirements/requirements.txt
     #   beautifulsoup4
-sqlparse==0.4.4
+sqlparse==0.5.4
     # via
     #   -r requirements/requirements.txt
     #   django
