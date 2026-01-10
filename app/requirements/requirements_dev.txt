@@ -677,7 +677,7 @@ uritemplate==4.1.1
     #   -r requirements/requirements_test.txt
     #   coreapi
     #   drf-spectacular
-urllib3==1.26.16
+urllib3==2.6.3
     # via
     #   -r requirements/requirements_test.txt
     #   elasticsearch
