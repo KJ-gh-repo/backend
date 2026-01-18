@@ -26,7 +26,7 @@ autopep8==2.0.2
     # via
     #   -r requirements/requirements.txt
     #   django-silk
-azure-core==1.29.2
+azure-core==1.38.0
     # via
     #   -r requirements/requirements.txt
     #   azure-identity
@@ -243,7 +243,7 @@ factory-boy==3.3.0
     # via -r requirements/requirements_test.in
 faker==19.3.0
     # via factory-boy
-filelock==3.12.2
+filelock==3.20.3
     # via
     #   tox
     #   virtualenv
@@ -469,7 +469,7 @@ pyopenssl==23.2.0
     # via
     #   -r requirements/requirements.txt
     #   josepy
-pypdf==3.15.1
+pypdf==6.6.0
     # via -r requirements/requirements.txt
 pyphen==0.14.0
     # via
