@@ -18,7 +18,7 @@ attrs==23.1.0
     #   referencing
 autopep8==2.0.2
     # via django-silk
-azure-core==1.29.2
+azure-core==1.38.0
     # via
     #   azure-identity
     #   azure-storage-blob
@@ -289,7 +289,7 @@ psycopg2-binary==2.9.7
     # via
     #   -r requirements/requirements.in
     #   opencensus-ext-postgresql
-pyasn1==0.5.0
+pyasn1==0.6.2
     # via
     #   pyasn1-modules
     #   rsa
@@ -303,7 +303,7 @@ pyjwt[crypto]==2.8.0
     # via msal
 pyopenssl==23.2.0
     # via josepy
-pypdf==3.15.1
+pypdf==6.6.0
     # via -r requirements/requirements.in
 pyphen==0.14.0
     # via weasyprint
@@ -409,7 +409,7 @@ uritemplate==4.1.1
     # via
     #   coreapi
     #   drf-spectacular
-urllib3==1.26.16
+urllib3==2.6.3
     # via
     #   elasticsearch
     #   google-auth
