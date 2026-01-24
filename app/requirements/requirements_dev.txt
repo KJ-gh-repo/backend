@@ -469,7 +469,7 @@ psycopg2-binary==2.9.7
     # via
     #   -r requirements/requirements_test.txt
     #   opencensus-ext-postgresql
-pyasn1==0.5.0
+pyasn1==0.6.2
     # via
     #   -r requirements/requirements_test.txt
     #   pyasn1-modules
@@ -703,7 +703,7 @@ wcwidth==0.2.6
     # via
     #   -r requirements/requirements_test.txt
     #   prompt-toolkit
-weasyprint==52.5
+weasyprint==68.0
     # via -r requirements/requirements_test.txt
 webencodings==0.5.1
     # via
