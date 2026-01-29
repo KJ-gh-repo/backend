@@ -303,7 +303,7 @@ pyjwt[crypto]==2.8.0
     # via msal
 pyopenssl==23.2.0
     # via josepy
-pypdf==3.15.1
+pypdf==6.6.2
     # via -r requirements/requirements.in
 pyphen==0.14.0
     # via weasyprint
