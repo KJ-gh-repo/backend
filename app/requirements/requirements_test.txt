@@ -428,7 +428,7 @@ prompt-toolkit==3.0.39
     # via
     #   -r requirements/requirements.txt
     #   click-repl
-protobuf==4.24.0
+protobuf==6.33.5
     # via
     #   -r requirements/requirements.txt
     #   google-api-core
@@ -469,7 +469,7 @@ pyopenssl==23.2.0
     # via
     #   -r requirements/requirements.txt
     #   josepy
-pypdf==3.15.1
+pypdf==6.6.2
     # via -r requirements/requirements.txt
 pyphen==0.14.0
     # via
